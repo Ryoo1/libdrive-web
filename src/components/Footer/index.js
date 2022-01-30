@@ -34,7 +34,7 @@ class Footer extends Component {
             href="https://elias.eu.org"
             target="_blank"
           >
-            {`Cinemadrive - v${version}`}
+            {`elias. - v${version}`}
           </a>
         </footer>
       </div>
